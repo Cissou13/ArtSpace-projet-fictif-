@@ -1,0 +1,19 @@
+.product {
+  width: 20%;
+  position: absolute;
+}
+.company {
+  width: 20%;
+  position: absolute;
+}
+.community {
+  width: 20%;
+  position: absolute;
+}
+.TryIt {
+  width: 20%;
+  position: absolute;
+}
+footer {
+  background-image: image();
+}
